@@ -122,7 +122,7 @@ const WidgetsDropdown = () => {
         <CWidgetDropdown
           color="gradient-warning"
           header="12"
-          text="Seiscomp3"
+          text="Seismograf"
           footerSlot={
             <ChartBarSimple
               className="mt-3 mx-3"

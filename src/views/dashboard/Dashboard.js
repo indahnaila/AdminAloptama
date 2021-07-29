@@ -22,7 +22,7 @@ const getBadge = status => {
     default: return 'primary'
   }
 }
-const fields = ['Tanggal','Email','AWS', 'AWOS', 'AAWS', 'CEILOMETER', 'RADAR', 'SEISCOMP3', ]
+const fields = ['Tanggal','Email','AWS', 'AWOS', 'AAWS', 'CEILOMETER', 'RADAR', 'SEISMOGRAF', ]
 
 const Dashboard = () => {
   const [dataAdmin, setDataAdmin] = useState();

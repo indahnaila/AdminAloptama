@@ -40,7 +40,7 @@ const _nav =  [
   },
   {
     _tag: 'CSidebarNavItem',
-    name: 'Seiscomp3',
+    name: 'Seismograf',
     to: '/Seiscomp3',
     icon: 'cil-chart-pie',
   },

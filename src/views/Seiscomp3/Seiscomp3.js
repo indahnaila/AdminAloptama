@@ -54,7 +54,7 @@ function Seiscomp3() {
           <CRow>
             <CCol sm="7" lg="12" className="d-none d-md-block">
               <CCardHeader style={{ fontWeight: "500", textAlign: 'center', fontSize: 16}}>
-                Hasil Laporan Seiscomp3
+                Hasil Laporan Seismograf
               </CCardHeader>
               <CCardBody>
               {nilai
